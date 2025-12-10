@@ -1,14 +1,22 @@
-# Built APKs
+# Built files
 *.apk
 *.ap_
 
-# Android Studio
-*.iml
+# Gradle files
 .gradle/
 build/
+
+# Android Studio
+*.iml
 .idea/
+
+# Local configuration
 local.properties
 
 # Keystores
 *.jks
 *.keystore
+
+# OS files
+.DS_Store
+Thumbs.db
