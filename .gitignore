@@ -1,0 +1,14 @@
+# Built APKs
+*.apk
+*.ap_
+
+# Android Studio
+*.iml
+.gradle/
+build/
+.idea/
+local.properties
+
+# Keystores
+*.jks
+*.keystore
